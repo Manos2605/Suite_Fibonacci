@@ -23,7 +23,7 @@ Les principales caractéristiques du code sont les suivantes :
 ### Exemple d'exécution
 ````bash
 Entrez le nombre de termes de la suite de Fibonacci à afficher : 5
-Fibonacci(0) = 1
+Fibonacci(0) = 0
 Fibonacci(1) = 1
 Fibonacci(2) = 2
 Fibonacci(3) = 3
