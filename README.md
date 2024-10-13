@@ -21,6 +21,7 @@ Les principales caractéristiques du code sont les suivantes :
    g++ -o fibonacci fibonacci.cpp
 
 ### Exemple d'exécution
+````bash
 Entrez le nombre de termes de la suite de Fibonacci à afficher : 5
 Fibonacci(0) = 1
 Fibonacci(1) = 1
