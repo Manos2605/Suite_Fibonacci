@@ -1,7 +1,9 @@
 # Suite de Fibonacci en C++
 
 Ce projet contient une implémentation simple en C++ de la suite de Fibonacci. Le programme demande à l'utilisateur d'entrer un nombre entier, puis affiche la suite de Fibonacci jusqu'à ce terme.
-Vidéo d'exécution présente sur X : https://x.com/Sonwa_Dimitry/status/1845570833349218650
+Vidéo d'exécution présente sur X et Linkedln : 
+- https://x.com/Sonwa_Dimitry/status/1845570833349218650
+- https://www.linkedin.com/posts/dimitry-sonwa-132345311_cplusplus-fibonacci-code-activity-7251859124873764865-op1p?utm_source=share&utm_medium=member_desktop
 
 ## Fonctionnement du code
 
